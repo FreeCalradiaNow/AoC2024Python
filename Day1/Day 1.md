@@ -1,7 +1,7 @@
 
 First test case dayOnePuzzleOne.py with AoC example puzzle input
-![alt text](pytest.png) 
+![alt text](pyd1p1test.png) 
 dayOnePuzzleOne.py with AoC puzzle input
-![alt text](pypt1.png)
+![alt text](pyd1p1.png)
 dayOnePuzzleTwo.py with AoC puzzle input
-![alt text](pypt2.png) 
+![alt text](pyd1p2.png) 
